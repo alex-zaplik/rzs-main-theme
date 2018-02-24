@@ -1,0 +1,11 @@
+toc:
+    - title: Semestr 1
+      subfolderitems:
+        - page: Analiza matematyczna 1
+          url: /sems/sem1/am1/index.html
+    - title: Semestr 2
+      subfolderitems:
+        - page: Analiza matematyczna 2
+          url: /sems/sem2/am2/index.html
+        - page: Matematyka dyskretna
+          url: /sems/sem2/md/index.html

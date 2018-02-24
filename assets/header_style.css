@@ -1,0 +1,14 @@
+.header {
+    display: inline-block;
+    vertical-align: middle;
+    width: 100%;
+
+    text-align: center;
+    line-height: 5em;
+    background-color: green;
+}
+
+.header_text {
+    color: white;
+    text-align: center
+}
